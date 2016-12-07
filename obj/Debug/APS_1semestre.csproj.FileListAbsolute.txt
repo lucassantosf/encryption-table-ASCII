@@ -1,0 +1,6 @@
+c:\users\lucas\documents\visual studio 2013\Projects\APS_1semestre\APS_1semestre\bin\Debug\APS_1semestre.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\APS_1semestre\APS_1semestre\bin\Debug\APS_1semestre.exe
+c:\users\lucas\documents\visual studio 2013\Projects\APS_1semestre\APS_1semestre\bin\Debug\APS_1semestre.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\APS_1semestre\APS_1semestre\obj\Debug\APS_1semestre.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\APS_1semestre\APS_1semestre\obj\Debug\APS_1semestre.exe
+c:\users\lucas\documents\visual studio 2013\Projects\APS_1semestre\APS_1semestre\obj\Debug\APS_1semestre.pdb
